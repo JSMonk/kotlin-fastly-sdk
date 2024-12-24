@@ -25,3 +25,6 @@
 
 .idea
 .kotlin
+
+fastly
+fastly.toml
