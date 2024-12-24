@@ -2,7 +2,6 @@
 
 import fastly.http.downstream
 
-
 fun main() {
     val (_, resp) = downstream()
     resp.body.writeAll("Hello, world!")
