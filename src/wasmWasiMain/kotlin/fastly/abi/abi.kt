@@ -1782,7 +1782,7 @@ typealias KvStoreHandle = WasiHandle
 //    store: KvStoreHandle,
 //    keyPtr: WasiPtr<UByte>,
 //    keyLen: UInt,
-//    bodyHandle: BodyHandle,
+//    handle: BodyHandle,
 //    maxAge: UInt,
 //    resultPtr: WasiMutPtr<Inserted>
 //): FastlyStatus
